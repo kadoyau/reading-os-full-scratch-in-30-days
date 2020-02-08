@@ -1,0 +1,3 @@
+[submodule "haribote_os/harib27f"]
+	path = haribote_os/harib27f
+	url = git@github.com:HariboteOS/harib27f.git
