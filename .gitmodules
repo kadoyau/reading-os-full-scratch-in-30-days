@@ -1,3 +1,6 @@
 [submodule "haribote_os/harib27f"]
 	path = haribote_os/harib27f
 	url = git@github.com:HariboteOS/harib27f.git
+[submodule "haribote_os/z_tools"]
+	path = haribote_os/z_tools
+	url = git@github.com:HariboteOS/z_tools_osx.git
